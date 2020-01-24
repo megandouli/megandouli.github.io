@@ -23,6 +23,11 @@ h2 {
 
 h3 {
 	font-size: 20px;
+	letter-spacing: 3px;
+}
+
+p {
+	font-size: 18px;
 }
 
 img {
@@ -103,9 +108,9 @@ a {
 	margin-left: auto;
 }
 ol {
-  text-align: left;
-  list-style-position: outside;
-  font-size: 18px;
+	text-align: left;
+	list-style-position: outside;
+	font-size: 18px;
 }
 
 li {
@@ -137,4 +142,27 @@ address a:hover {
 	margin-right: 10px;
 }
 
+.school-img {
+	padding: 4px;
+}
 
+.table {
+	text-align: left;
+}
+
+.school-info {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dot {
+	height: 5px;
+	width: 5px;
+	background-color: black;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: center;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
