@@ -179,6 +179,7 @@ address a:hover {
 	text-align: left;
 	padding-left: 15%;
 	padding-right: 15%;
+	padding-top: 30px;
 }
 
 .a-skill h4 {
@@ -191,5 +192,12 @@ address a:hover {
 }
 
 .skill-level {
-	padding-top: 15px;
+	margin-top: 10px;
+	margin-bottom: 4px;
+	font-variant: small-caps;
+	font-size: 24px;
+}
+
+.skill-description {
+	font-size: small;
 }
