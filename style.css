@@ -1,203 +1,245 @@
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-	font-family: 'Open Sans', helvetica, sans-serif;
+  font-family: "Open Sans", helvetica, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	letter-spacing: 5px;
-	padding-top: 20px;
-	padding-bottom: 10px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: 5px;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 h1 {
-	font-size: 40px;
-	font-variant: small-caps;
-	padding-top: 40px;
-	padding-bottom: 40px;
+  font-size: 40px;
+  font-variant: small-caps;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 h2 {
-	font-size: 25px;
+  font-size: 25px;
 }
 
 h3 {
-	font-size: 20px;
-	letter-spacing: 3px;
+  font-size: 20px;
+  letter-spacing: 3px;
 }
 
 p {
-	font-size: 18px;
+  font-size: 18px;
 }
 
 img {
-	max-width: 100%;
-	height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 .header {
-	margin-right: auto;
-	margin-left: auto;
-	text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
 }
 
 .navbar-nav {
-	list-style-type: none;
-	margin-top: 0;
-	margin-bottom: 0;
-	padding: 0;
-	overflow: hidden;
+  list-style-type: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 .nav-item {
-	display: inline;
-	margin: 0;
-	padding-left: 4px;
-	padding-right: 4px;
-	padding-top: 0px;
-	padding-bottom: 0px;
+  display: inline;
+  margin: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .nav-link {
-	text-decoration: none;
-	border-radius: 0px;
-	letter-spacing: 2px;
-	font-variant: small-caps;
-	font-size: 18px;
-	margin-right: 10px;
-	margin-left: 10px;
-	padding-left: 12px;
-	padding-right: 12px
+  text-decoration: none;
+  border-radius: 0px;
+  letter-spacing: 2px;
+  font-variant: small-caps;
+  font-size: 18px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .nav-link:hover {
-	color: #ffffff;
+  color: #ffffff;
 }
 
 a {
-	color: black;
-	font-size: 15px;
+  color: black;
+  font-size: 15px;
 }
 
 .active {
-	color: white;
+  color: white;
 }
 
 .navbar-toggler-icon {
-	color: black;
+  color: black;
 }
 
 .navbar-light {
-	background-color: #dfd3c3;
+  background-color: #dfd3c3;
 }
 
 .page-body {
-	margin-right: auto;
-	margin-left: auto;
-	text-align: center;
-	background-color: #f7f4e3;
-	padding-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  background-color: #f7f4e3;
+  padding-bottom: 50px;
 }
 
 #megan-headshot {
-	width: 20%;
-	min-width: 100px;
+  width: 20%;
+  min-width: 100px;
 }
 
 .fun-facts {
-	margin-right: auto;
-	margin-left: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 ol {
-	text-align: left;
-	list-style-position: outside;
-	font-size: 18px;
+  text-align: left;
+  list-style-position: outside;
+  font-size: 18px;
 }
 
 li {
-	margin-top: 20px;
-	margin-bottom: 20px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 li p {
-	display: inline;
-	padding-left: 4px;
+  display: inline;
+  padding-left: 4px;
 }
 
 .page-footer {
-	text-align: center;
-	background-color: #dfd3c3;
+  text-align: center;
+  background-color: #dfd3c3;
 }
 
 address a:hover {
-	color: white;
-	text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .social-media-button {
-	width: 50px;
-	height: auto;
-	margin-left: 10px;
-	margin-right: 10px;
+  width: 50px;
+  height: auto;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .school-img {
-	padding: 4px;
+  padding: 4px;
 }
 
 .table {
-	text-align: left;
+  text-align: left;
 }
 
 .school-info {
-	background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .dot {
-	height: 5px;
-	width: 5px;
-	background-color: black;
-	border-radius: 50%;
-	display: inline-block;
-	vertical-align: center;
-	margin-left: 8px;
-	margin-right: 8px;
-	margin-bottom: 5px;
-	margin-top: 5px;
+  height: 5px;
+  width: 5px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: center;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
 
 .skills h2 {
-	font-size: 40px;
-	font-variant: small-caps;
+  font-size: 36px;
+  font-variant: small-caps;
 }
 
 .a-skill {
-	text-align: left;
-	padding-left: 15%;
-	padding-right: 15%;
-	padding-top: 30px;
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 20px;
+  margin-top: 0px;
 }
 
 .a-skill h4 {
-	font-size: 32px;
-	font-variant: small-caps;
+  font-size: 24px;
+  font-variant: small-caps;
 }
 
 #code-image {
-	width: 100%;
+  width: 100%;
 }
 
 .skill-level {
-	margin-top: 10px;
-	margin-bottom: 4px;
-	font-variant: small-caps;
-	font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  font-variant: small-caps;
+  font-size: 18px;
 }
 
 .skill-description {
-	font-size: small;
+  font-size: small;
+}
+
+.code-background {
+  background-repeat: repeat-y;
+  background-image: url("./images/codeImg.png");
+  background-size: initial;
+}
+
+.interests {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.basic-info div p {
+  text-align: justify;
+  text-align-last: left;
+}
+
+.highlighted-words {
+  font-size: 20px;
+  font-weight: bold;
+  color: #5f2f14;
+  letter-spacing: 1.5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.interests-list {
+  list-style: none;
+  text-align: center;
+  padding-left: 0px;
+  font-size: 20px;
+}
+
+figcaption {
+  font-size: 15px;
+  padding-top: 8px;
 }
