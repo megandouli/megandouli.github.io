@@ -267,13 +267,20 @@ figcaption {
   background-color: #fcf9ea;
 }
 
+.portfolio-section {
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+
 .portfolio-name {
   text-align: center;
 }
 
 .portfolio-description {
   font-size: 15px;
-  text-align: center;
+  text-align: justify;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .portfolio-section img {
