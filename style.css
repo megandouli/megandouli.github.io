@@ -94,8 +94,20 @@ a {
   color: black;
 }
 
-.navbar-light {
+.home-navbar, .home-page-footer {
   background-color: #dfd3c3;
+}
+
+.edu-navbar, .edu-page-footer {
+  background-color: #c2e8ce;
+}
+
+.skills-navbar, .skills-page-footer {
+  background-color: #bbe1fa;
+}
+
+.portfolio-navbar, .portfolio-page-footer {
+  background-color: #fae8c8;
 }
 
 .page-body {
@@ -135,7 +147,6 @@ li p {
 
 .page-footer {
   text-align: center;
-  background-color: #dfd3c3;
 }
 
 address a:hover {
@@ -242,4 +253,30 @@ address a:hover {
 figcaption {
   font-size: 15px;
   padding-top: 8px;
+}
+
+.edu-page-body {
+  background-color: #effcef;
+}
+
+.skills-page-body {
+  background-color: #e1f2fb;
+}
+
+.portfolio-page-body {
+  background-color: #fcf9ea;
+}
+
+.portfolio-name {
+  text-align: center;
+}
+
+.portfolio-description {
+  font-size: 15px;
+  text-align: center;
+}
+
+.portfolio-section img {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
