@@ -272,6 +272,14 @@ figcaption {
   margin-top: 20px;
 }
 
+.portfolio-section-2 {
+  background-color: #f7ebc9;
+}
+
+.portfolio-section-3 {
+  background-color: #fff4e3;
+}
+
 .portfolio-name {
   text-align: center;
 }
