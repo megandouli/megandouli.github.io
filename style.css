@@ -234,14 +234,14 @@ address a:hover {
   text-align-last: left;
 }
 
-.highlighted-words {
+/* .highlighted-words {
   font-size: 20px;
   font-weight: bold;
   color: #5f2f14;
   letter-spacing: 1.5px;
   padding-left: 3px;
   padding-right: 3px;
-}
+} */
 
 .interests-list {
   list-style: none;
@@ -261,6 +261,12 @@ figcaption {
 
 .skills-page-body {
   background-color: #e1f2fb;
+}
+
+.project-link {
+  color: black;
+  text-decoration: underline;
+  background-color: #d7fffd;
 }
 
 .portfolio-page-body {
