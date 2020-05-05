@@ -1,3 +1,2 @@
 # my-portfolio
-# megandouli.github.io
-# megandouli.github.io
+My portfolio website written in plain HTML and CSS.

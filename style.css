@@ -110,6 +110,10 @@ a {
   background-color: #fae8c8;
 }
 
+.project-navbar, .project-page-footer {
+  background-color: #f0f0f0;
+}
+
 .page-body {
   margin-right: auto;
   margin-left: auto;
@@ -269,6 +273,22 @@ figcaption {
   background-color: #d7fffd;
 }
 
+.project-link-large {
+  font-size: 20px;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.project-link-large:hover {
+color: white
+}
+
+.project p {
+  font-size: 15px;
+  margin-top: 20px;
+}
+
 .portfolio-page-body {
   background-color: #fcf9ea;
 }
@@ -300,4 +320,8 @@ figcaption {
 .portfolio-section img {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.project-page-body {
+  background-color: #d6e5fa;
 }
