@@ -1,3 +1,3 @@
 # my-portfolio
-My portfolio website written in plain HTML and CSS.
+My personal website made with HTML and CSS.
 
