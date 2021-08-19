@@ -100,7 +100,7 @@ const CLUB_EXPERIENCE = [
 
 const Experience = () => {
   return (
-    <Section inputColor={"#FFAD5A"} id="experience">
+    <Section inputColor={"#FFAD5A"}>
       <SectionContent>
         <BodyText>(What's not on the resume.)</BodyText>
         <WorkExperienceContainer>

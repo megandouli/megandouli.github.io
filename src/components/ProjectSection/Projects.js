@@ -7,7 +7,7 @@ const ProjectsSection = styled(Section)``;
 
 const Projects = () => {
   return (
-    <ProjectsSection inputColor={"#FFC996"} id="projects">
+    <ProjectsSection inputColor={"#FFC996"}>
       <ProjectCards />
     </ProjectsSection>
   );

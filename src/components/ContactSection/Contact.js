@@ -8,6 +8,7 @@ const ContactSection = styled(Section)``;
 const ContactContent = styled.div`
   max-width: 500px;
   margin: auto;
+  min-height: 80vh;
 `;
 
 const Text = styled(BodyText)`
@@ -37,7 +38,7 @@ const Icon = styled.img`
 
 const Contact = () => {
   return (
-    <ContactSection inputColor={"#2B2B2B"}>
+    <ContactSection inputColor={"#1B1B1B"}>
       <ContactContent>
         <Text color="white">
           If you want some guidance getting started with a project idea, need

@@ -103,11 +103,11 @@ const SkillsListBody = styled.div`
 
 const Skills = () => {
   return (
-    <Section inputColor={"#FF8474"} id="skills">
+    <Section inputColor={"#FF8474"}>
       <SkillsOrderedList>
         {skills.map((s, sIndex) => (
-          <SkillsListItem>
-            <SkillsListHeader key={s.name}>{s.name}</SkillsListHeader>
+          <SkillsListItem key={s.name}>
+            <SkillsListHeader>{s.name}</SkillsListHeader>
             {s.body.map((b, bIndex) => (
               <SkillsListBody key={`skill-${sIndex}-body-${bIndex}`}>
                 {b}

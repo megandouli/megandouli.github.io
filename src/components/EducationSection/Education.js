@@ -68,7 +68,7 @@ const NortheasternCardBody = (
 
 const Education = () => {
   return (
-    <Section inputColor={"#9F5F80"} id="education">
+    <Section inputColor={"#9F5F80"}>
       <Card
         header1="James Madison Memorial High School"
         header2={["Class of 2019", "Madison, WI"]}
