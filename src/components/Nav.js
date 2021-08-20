@@ -37,7 +37,7 @@ const NavList = styled.ul`
   @media (max-width: 1000px) {
     transition: visibility 0.2s ease-in-out 0.2s;
     display: block;
-    margin-top: 100px;
+    margin-top: 60px;
     padding-bottom: 50px;
     border-radius: 0px;
     ${(props) =>
@@ -110,7 +110,7 @@ const ToggleMobileSidebarContainer = styled.div`
   position: absolute;
   top: 0;
   left: 0;
-  height: 100px;
+  height: 60px;
   visibility: hidden;
   cursor: pointer;
 
@@ -123,7 +123,7 @@ const ToggleMobileSidebarIcon = styled.span`
   position: absolute;
   width: 2em;
   height: 0.25em;
-  top: 50px;
+  top: 30px;
   right: 30px;
   border-radius: 4px;
   background-color: white;

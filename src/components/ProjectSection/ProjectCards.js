@@ -145,10 +145,10 @@ const PROJECT_CARDS = [
     body: (
       <CardBody>
         When trying to find clients for Sandbox to work with, I noticed the
-        Sandbox public facing website wasn’t very informative or easy to
-        navigate from the perspective of potential clients. I designed a new
-        client page in Figma which was then iterated upon by another Sandbox
-        designer and I implemented the design in code.{" "}
+        Sandbox public facing website could be more informative and easier to
+        navigate for potential clients. With input from the Sandbox Technical
+        Director, I designed a new client page in Figma which was then iterated
+        upon by another Sandbox designer, and I implemented the design in code.{" "}
         <a
           href="https://www.sandboxnu.com/clients"
           target="_blank"

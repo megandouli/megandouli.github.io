@@ -70,14 +70,6 @@ const Education = () => {
   return (
     <Section inputColor={"#9F5F80"}>
       <Card
-        header1="James Madison Memorial High School"
-        header2={["Class of 2019", "Madison, WI"]}
-        imgSrc={"./images/megan-jmm.jpg"}
-        imgAltText={"Megan high school graduation pic"}
-        body={JMMCardBody}
-      ></Card>
-      <Card
-        isBottom={true}
         header1="Northeastern University"
         header2={[
           "Candidate for a B.S. in Computer Science & Design",
@@ -87,6 +79,14 @@ const Education = () => {
         imgSrc={"./images/megan-northeastern.jpg"}
         imgAltText={"Megan Northeastern pic"}
         body={NortheasternCardBody}
+      ></Card>
+      <Card
+        isBottom={true}
+        header1="James Madison Memorial High School"
+        header2={["Class of 2019", "Madison, WI"]}
+        imgSrc={"./images/megan-jmm.jpg"}
+        imgAltText={"Megan high school graduation pic"}
+        body={JMMCardBody}
       ></Card>
     </Section>
   );

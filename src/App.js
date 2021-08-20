@@ -12,7 +12,7 @@ import ScrollableAnchor, { configureAnchors } from "react-scrollable-anchor";
 // and scroll more quickly than the default 400ms
 if (window && window.innerHeight <= 1000) {
   // offset for sticky nav header
-  configureAnchors({ offset: -95, scrollDuration: 200 });
+  configureAnchors({ offset: -55, scrollDuration: 200 });
 } else {
   configureAnchors({ offset: 0, scrollDuration: 200 });
 }
