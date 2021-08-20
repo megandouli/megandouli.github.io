@@ -83,15 +83,15 @@ const CLUB_EXPERIENCE = [
     ],
   },
   {
-    title: `Technical Lead for SearchNEU @ Sandbox`,
+    title: `Project & Technical Lead for SearchNEU @ Sandbox`,
     time: `July 2021 - Present`,
     body: [
-      "One of the most challenging problems within Sandbox is knowledge transfer / project continuity when every developer has a turnover rate of 2-3 years at most. SearchNEU is also a fairly mature project with a significant amount of code written by developers no longer on the team. As Technical Lead, I’m exploring ways to simplify the codebase as much as possible to facilitate future maintenance of the project. I’m also putting effort into creating better documentation to make it easier to onboard new developers. Perhaps most rewarding for me is I’ll be mentoring younger developers who’ll take over the project when I graduate from Northeastern. ",
+      "One of the most challenging problems within Sandbox is knowledge transfer / project continuity when every developer has a turnover rate of 2-3 years at most. SearchNEU is also a fairly mature project with a significant amount of code written by developers no longer on the team. As Project & Technical Lead, I’m exploring ways to simplify the codebase as much as possible to facilitate future maintenance of the project. I’m also putting effort into creating better documentation to make it easier to onboard new developers. Perhaps most rewarding for me is I’ll be mentoring younger developers who’ll take over the project when I graduate from Northeastern. ",
     ],
   },
   {
     title: `Developer for SearchNEU @ Sandbox`,
-    time: `Sept. 2020 - July 2021`,
+    time: `Sept. 2020 - Aug. 2021`,
     body: [
       "This was my first experience doing web development on a team. I was exposed to technologies and tools I’d never worked with before like GraphQL, AWS, Terraform, and TypeScript. I’ll always be grateful to the SearchNEU Technical Lead at the time for taking me under his wing and teaching me web development. My experience as his mentee is what inspires me to want to become a mentor to other developers.",
     ],
