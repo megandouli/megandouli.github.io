@@ -8,7 +8,7 @@ const ContactSection = styled(Section)``;
 const ContactContent = styled.div`
   max-width: 500px;
   margin: auto;
-  min-height: 80vh;
+  min-height: 100vh;
 `;
 
 const Text = styled(BodyText)`

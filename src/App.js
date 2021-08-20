@@ -10,7 +10,12 @@ import ScrollableAnchor, { configureAnchors } from "react-scrollable-anchor";
 
 // Offset all anchors by a certain amount
 // and scroll more quickly than the default 400ms
-configureAnchors({ offset: -80, scrollDuration: 200 });
+if (window && window.innerHeight <= 1000) {
+  // offset for sticky nav header
+  configureAnchors({ offset: -95, scrollDuration: 200 });
+} else {
+  configureAnchors({ offset: 0, scrollDuration: 200 });
+}
 
 class PageSection extends React.Component {
   render() {

@@ -7,7 +7,7 @@ const skills = [
     name: "WEB DEVELOPMENT",
     body: [
       `Through personal projects, club involvement, and work experience, I’ve done a significant amount of both frontend and backend web development. Most of my experience has been in JavaScript (React.js, Express.js, Node.js, Gatsby.js). I’ve also worked with GraphQL and dabbled in AWS (IAM, EC2, RDS, ECR, ECS).`,
-      "View Projects",
+      <a href="#projects">View Projects</a>,
     ],
   },
   {
