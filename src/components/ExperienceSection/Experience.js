@@ -65,6 +65,13 @@ const ExperienceBody = styled(BodyText)`
 
 const WORK_EXPERIENCE = [
   {
+    title: "Incoming Software Engineering Intern @ Stripe",
+    time: "Jan. 2022 - Apr. 2022",
+    body: [
+      `I'm unbelievably excited about this upcoming opportunity! I'm looking forward to learning from brilliant engineers, driving a project from start to end, and pushing myself to become a more critical thinker.`,
+    ],
+  },
+  {
     title: "Software Developer Co-op @ PowerAdvocate",
     time: "Jan. 2021 - July 2021",
     body: [
@@ -79,7 +86,7 @@ const CLUB_EXPERIENCE = [
     title: `E-Board Liaison @ Sandbox`,
     time: `July 2021 - Present`,
     body: [
-      "I developed and pitched the idea for a new role on the executive board (E-Board) after noticing problems with lack of communication between E-Board and other Sandbox members and lack of capacity within E-Board to take on more responsibilities. I’m currently in this role and my main responsibilities include getting regular feedback from members, organizing open forums to hold conversations that affect the entire organization, and chatting with members one-on-one to understand their motivations, frustrations, and ways to improve their experience in Sandbox.",
+      "I developed and pitched the idea for a new role on the executive board (E-Board) after noticing a lack of communication between E-Board and other Sandbox members and lack of capacity within E-Board to take on more responsibilities. I’m currently in this role and my main responsibilities include getting regular feedback from members, organizing open forums to hold conversations that affect the entire organization, and chatting with members one-on-one to understand their motivations, frustrations, and ways to improve their experience in Sandbox.",
     ],
   },
   {

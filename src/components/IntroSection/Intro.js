@@ -32,9 +32,9 @@ const Intro = () => {
         <HeaderLine color="white">Hi, it's Megan!</HeaderLine>
         <BodyText color="white">
           I’m a full-stack web developer with an eye for design. I love creating
-          elegant software that’s user-friendly and makes an impact. I thrive in
-          places that emphasize teamwork, collaboration and mentorship, and I’m
-          a strong proponent of pair programming.
+          readable software that’s user-friendly and makes an impact. I thrive
+          in places that emphasize teamwork, collaboration and mentorship, and
+          I’m a strong proponent of pair programming.
         </BodyText>
       </AboutMeContainer>
     </IntroSection>
