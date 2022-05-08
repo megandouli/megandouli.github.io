@@ -40,24 +40,30 @@ const JMMCardBody = (
 const NortheasternCardBody = (
   <>
     <CardBodyText>
-      I’m currently a third year studying Computer Science and Design. Some
+      I’m currently a fourth year studying Computer Science and Design. Some
       things I’ve learned/done so far:
     </CardBodyText>
     <ul>
       <CardBodyText as="li">
-        Took Typography 1 and had my mind blown by the rules and principles of
-        typography — I am now unashamedly a type snob
+        Took Typography 1, 2 & 3 and had my mind blown by the rules and
+        principles of typography — I am now unashamedly a type snob and even
+        have my own typeface, Patina!
       </CardBodyText>
       <CardBodyText as="li">
         Joined <a href="https://www.sandboxnu.com/">Sandbox</a>, a student-led
         software consultancy at Northeastern, where I made new friends, worked
         on cool projects, and grew from being a developer to being a technical
-        lead and member of the executive board
+        lead and member of the executive board.
       </CardBodyText>
       <CardBodyText as="li">
         Co-oped (worked full-time for 6 months) at PowerAdvocate where I grew
         more confident as a developer and realized I highly value a strong
-        culture of collaboration and mentorship at a workplace
+        culture of collaboration and mentorship at a workplace.
+      </CardBodyText>
+      <CardBodyText as="li">
+        Interned at Stripe in Seattle where I got a taste of how teams move
+        quickly and in coordination across a big organization. I also met so
+        many incredible people here and made lifelong friendships!
       </CardBodyText>
     </ul>
     <CardBodyText>

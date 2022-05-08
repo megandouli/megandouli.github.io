@@ -65,10 +65,11 @@ const ExperienceBody = styled(BodyText)`
 
 const WORK_EXPERIENCE = [
   {
-    title: "Incoming Software Engineering Intern @ Stripe",
+    title: "Software Engineering Intern @ Stripe",
     time: "Jan. 2022 - Apr. 2022",
     body: [
-      `I'm unbelievably excited about this upcoming opportunity! I'm looking forward to learning from brilliant engineers, driving a project from start to end, and pushing myself to become a more critical thinker.`,
+      `This was my second internship and my first experience working at a big company. All my previous coding experiences involved pair programming, so the next step for me was to see far I can drive a project as an individual contributor. At Stripe, I learned how to set myself up for success without monopolizing my teammates' time by searching through internal documentation and setting up short pairing sessions to get to a point where I could iterate and independently make progress.`,
+      `I was most impressed by how quickly software engineers moved, how skillfully my teammates broke big tasks into smaller changes, and how proactively people iterated on their work — there was never hesitation about scrapping v1 and writing an improved v2 of an endpoint. Going forward, these are skills I want to actively work on developing/improving.`,
     ],
   },
   {
@@ -84,16 +85,16 @@ const WORK_EXPERIENCE = [
 const CLUB_EXPERIENCE = [
   {
     title: `E-Board Liaison @ Sandbox`,
-    time: `July 2021 - Present`,
+    time: `July 2021 - Dec. 2021`,
     body: [
-      "I developed and pitched the idea for a new role on the executive board (E-Board) after noticing a lack of communication between E-Board and other Sandbox members and lack of capacity within E-Board to take on more responsibilities. I’m currently in this role and my main responsibilities include getting regular feedback from members, organizing open forums to hold conversations that affect the entire organization, and chatting with members one-on-one to understand their motivations, frustrations, and ways to improve their experience in Sandbox.",
+      "I developed and pitched the idea for a new role on the executive board (E-Board) after noticing a lack of communication between E-Board and other Sandbox members and lack of capacity within E-Board to take on more responsibilities. My main responsibilities as liaison included getting regular feedback from members, organizing open forums to hold conversations that affect the entire organization, and chatting with members one-on-one to understand their motivations, frustrations, and ways to improve their experience in Sandbox.",
     ],
   },
   {
     title: `Project & Technical Lead for SearchNEU @ Sandbox`,
-    time: `July 2021 - Present`,
+    time: `July 2021 - Dec. 2021`,
     body: [
-      "One of the most challenging problems within Sandbox is knowledge transfer / project continuity when every developer has a turnover rate of 2-3 years at most. SearchNEU is also a fairly mature project with a significant amount of code written by developers no longer on the team. As Project & Technical Lead, I’m exploring ways to simplify the codebase as much as possible to facilitate future maintenance of the project. I’m also putting effort into creating better documentation to make it easier to onboard new developers. Perhaps most rewarding for me is I’ll be mentoring younger developers who’ll take over the project when I graduate from Northeastern. ",
+      "This was the most challenging role I held at Sandbox. It was my first time leading a team of developers and designers, and on top of organizing team meetings, managing the backlog, and prioritizing tickets, I was also responsible for establishing a sense of community among people who haven't worked together before and making the team a place to have fun as well. Definitely, DEFINITELY a challenge. I don't think I'll be trying a similar role again anytime soon, but I'm so grateful for the experience, the support of my team along the way, and this opportunity to learn more about my strengths and weaknesses.",
     ],
   },
   {
