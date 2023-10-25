@@ -13,14 +13,14 @@ const skills = [
   {
     name: "DESIGN",
     body: [
-      `Most of my design experience comes from class projects, but I often apply the design principles I’ve learned about to my coding work. I always keep an eye on typography and color contrast when doing frontend work to optimize readability. When possible, I use Figma to build lo-fi and hi-fi wireframes before jumping into programming.`,
+      `Most of my design experience comes from class projects, but I often apply the design principles I’ve learned about to my coding work. Concretely, I try to keep an eye on typography and color contrast when working on frontend to optimize readability. More importantly, I keep my users top of mind and aim to deepen my understanding of their needs throughout the design / implementation process so I can build the right solution for them.`,
       "Random fun fact: I love designing resumes with Adobe InDesign.",
     ],
   },
   {
     name: "COMMUNICATION",
     body: [
-      `Expressing ideas and thoughts. Presenting information. Asking questions. Being transparent. Giving feedback to help improve instead of to criticize. Speaking up when you think something should change. These are all aspects of communication; a skill that is the foundation of teamwork. I’ve had a lot of opportunities to learn and grow in this area through club work and co-op, but it’s still something I continually strive to improve on.`,
+      `Expressing ideas and thoughts. Presenting information. Asking questions. Being transparent. Giving feedback to improve instead of to criticize. Speaking up when something should change. These are all aspects of communication, a skill that is the foundation of teamwork. I’ve had a lot of opportunities to learn and grow in this area through club work and co-op, but it’s still something I continually strive to improve in.`,
     ],
   },
 ];

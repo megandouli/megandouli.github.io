@@ -15,19 +15,18 @@ const JMMCardBody = (
     </CardBodyText>
     <ul>
       <CardBodyText as="li">
-        Joined an incredibly fun and supportive tennis team and went to team
-        state my senior year — I still enjoy playing tennis regularly with
-        friends and family
+        I joined an incredibly fun and supportive tennis team and went to team
+        state my senior year — I still enjoy playing tennis every now and then
+        with friends and family!
       </CardBodyText>
       <CardBodyText as="li">
-        Attempted to overcome my fear of public speaking by joining our
-        Forensics team — I still get nervous to this day but I know I’m capable
-        of speaking to large groups
+        I ~attempted~ to overcome my fear of public speaking by joining our
+        Forensics team.
       </CardBodyText>
       <CardBodyText as="li">
-        Developed my leadership skills in a community service club by
-        collaborating with others to organize fundraisers and volunteering/club
-        events
+        I developed my leadership skills in a community service club by
+        collaborating with my peers to organize fundraisers and
+        volunteering/club events.
       </CardBodyText>
     </ul>
     <CardBodyText>
@@ -40,28 +39,28 @@ const JMMCardBody = (
 const NortheasternCardBody = (
   <>
     <CardBodyText>
-      I’m currently a fourth year studying Computer Science and Design. Some
-      things I’ve learned/done so far:
+      I graduated with a combined degree in Computer Science and Design. Some
+      things I’ve learned/done:
     </CardBodyText>
     <ul>
       <CardBodyText as="li">
-        Took Typography 1, 2 & 3 and had my mind blown by the rules and
+        I took Typography 1, 2 & 3 and had my mind blown by the rules and
         principles of typography — I am now unashamedly a type snob and even
-        have my own typeface, Patina!
+        designed my own typeface, Patina!
       </CardBodyText>
       <CardBodyText as="li">
-        Joined <a href="https://www.sandboxnu.com/">Sandbox</a>, a student-led
+        I joined <a href="https://www.sandboxnu.com/">Sandbox</a>, a student-led
         software consultancy at Northeastern, where I made new friends, worked
         on cool projects, and grew from being a developer to being a technical
         lead and member of the executive board.
       </CardBodyText>
       <CardBodyText as="li">
-        Co-oped (worked full-time for 6 months) at PowerAdvocate where I grew
+        I co-oped (worked full-time for 6 months) at PowerAdvocate where I grew
         more confident as a developer and realized I highly value a strong
         culture of collaboration and mentorship at a workplace.
       </CardBodyText>
       <CardBodyText as="li">
-        Interned at Stripe in Seattle where I got a taste of how teams move
+        I interned at Stripe in Seattle where I got a taste of how teams move
         quickly and in coordination across a big organization. I also met so
         many incredible people here and made lifelong friendships!
       </CardBodyText>
@@ -78,20 +77,20 @@ const Education = () => {
       <Card
         header1="Northeastern University"
         header2={[
-          "Candidate for a B.S. in Computer Science & Design",
-          <i>Expected 2023</i>,
+          "B.S. in Computer Science & Design",
+          "Class of 2023",
           "Boston, MA",
         ]}
-        imgSrc={"./images/megan-northeastern.jpg"}
-        imgAltText={"Megan Northeastern pic"}
+        imgSrc={"./images/northeastern-grad.jpg"}
+        imgAltText={"Megan Northeastern graduation"}
         body={NortheasternCardBody}
       ></Card>
       <Card
         isBottom={true}
         header1="James Madison Memorial High School"
         header2={["Class of 2019", "Madison, WI"]}
-        imgSrc={"./images/megan-jmm.jpg"}
-        imgAltText={"Megan high school graduation pic"}
+        imgSrc={"./images/tennis.jpg"}
+        imgAltText={"Megan high school tennis pic"}
         body={JMMCardBody}
       ></Card>
     </Section>

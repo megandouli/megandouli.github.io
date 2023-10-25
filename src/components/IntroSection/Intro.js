@@ -29,12 +29,12 @@ const Intro = () => {
   return (
     <IntroSection inputColor={"#583D72"}>
       <AboutMeContainer>
-        <HeaderLine color="white">Hi, it's Megan!</HeaderLine>
+        <HeaderLine color="white">Hi, I'm Megan!</HeaderLine>
         <BodyText color="white">
-          I’m a full-stack web developer with an eye for design. I love creating
-          readable software that’s user-friendly and makes an impact. I thrive
-          in places that emphasize teamwork, collaboration and mentorship, and
-          I’m a strong proponent of pair programming.
+          I’m a full-stack software engineer with an eye for design. I love
+          creating readable software that’s user-friendly and makes an impact. I
+          thrive in places that emphasize teamwork, collaboration and
+          mentorship, and I’m a strong proponent of pair programming.
         </BodyText>
       </AboutMeContainer>
     </IntroSection>
